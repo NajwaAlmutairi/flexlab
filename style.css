@@ -122,8 +122,12 @@ nav {
     color: white;
     width: 150px;
     border-radius: 50px;
+    text-align: center;
 }
+.secondImage{
+    transform: translate(9rem, -2rem);
 
+}
 .column2 p {
     margin-left: 10px;
     margin-bottom: 10px;
